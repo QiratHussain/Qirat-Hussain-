@@ -80,14 +80,6 @@ I want to reach the point where I can look at a problem and think:
 
 That's the direction I'm taking with every project I make.
 
-## Beyond tutorials
-
-One of my goals is to increasingly replace following tutorials with building from my own ideas.
-
-Some ideas will be simple. Some will fail. Some might eventually become actual products.
-
-That's part of the process.
-
 ## Let's build
 
 I'm documenting the journey here through projects, experiments, and things I'm learning along the way.
